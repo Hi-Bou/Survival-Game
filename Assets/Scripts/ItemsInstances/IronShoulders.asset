@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76a3dfb26bac2b2448b7cafa2bae2f4c, type: 3}
+  m_Name: IronShoulders
+  m_EditorClassIdentifier: 
+  name_: Iron Shoulder
+  description: Sturdy Shoulder
+  visual: {fileID: 21300000, guid: 4d5bfe9277d489f488ad7db1fe95ce19, type: 3}
+  prefab: {fileID: 4173702271724876096, guid: 3540a6a935e39254f94f38da3d2008a5, type: 3}
+  itemType: 1
+  equipementType: 2
